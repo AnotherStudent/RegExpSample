@@ -1,5 +1,6 @@
 # RegExpValidationSample
-Simple application for validation with **^[10]{3,4}([^10]+.\*|[^10]\*)$** regexp
+Simple application for validation with **^[10]{3,4}([^10]+.\*|[^10]\*)$** regexp.
+
 Samples:
 * 101 - Valid
 * 1010 - Valid
